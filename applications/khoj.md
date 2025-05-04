@@ -4,9 +4,9 @@
 
 - **Tagline**: Participate in AI-personalised treasure hunts where each clue is a physical location. Earn on-chain rewards and onboard a million users.
 - **Description**: Khoj (meaning "search" or "discovery" in Hindi) is a gamified geo-location based treasure hunt platform that combines real-world exploration with Web3 technology.
-  It allows users to participate in location-based AI treasure hunts where they solve riddles, visit physical locations, and earn onchain rewards.
-- **Integration with Polkadot**: <placeholder>
-- **Motivation**: The desire started off in college when we wanted to onboard the new joinees of our tech club with a different experience that combines Web3 with the real world in a gamified manner. Since then, we haven't found a platform that solves this our way and we would love to solve this to onboard not just our club members but go beyond.
+  It allows users to participate in location-based AI treasure hunts where they solve riddles, visit physical locations, and earn on-chain rewards.
+- **Integration with Polkadot**: The application smart contract (which includes token creation and NFTs) will be deployed on the Polkadot Blockchain.
+- **Motivation**: The desire started off in college when we wanted to onboard the new joinees of our tech club with a different experience that combines Web3 with the real world in a gamified manner. Since then, we haven't found a platform that solves this our way, and we would love to solve this to onboard not just our club members but go beyond.
 
 ### 🔍 Project Details
 
@@ -81,7 +81,7 @@ We expect applicants to have a solid idea about the project's expected final sta
 |--------------------|----------------------------------------------------|---------------------------------------------------------|------------|
 | **Parth Mittal**   | [mittal-parth](https://github.com/mittal-parth)   | [mittal-parth](https://www.linkedin.com/in/mittal-parth/) | - Graduated with a [distinction](https://kodadot.xyz/ahp/gallery/171-16) from the Polkadot Blockchain Academy - 5, Singapore <br> - [2nd Runner Up](https://www.linkedin.com/posts/mittal-parth_hackathon-winners-web3-activity-7048340759116214272-eJvo) in the ink! Smart Contract Category at the Polkadot Hackathon: Europe Edition 2023 <br> - [2x ETHIndia Winner](https://www.thehindu.com/news/cities/Mangalore/nitk-iiit-delhi-team-makes-it-to-top-12-winners-in-ethindia-22/article66238923.ece), 2022 edition being the world's largest Ethereum Hackathon <br> - Creator of the [polkadot-dev-cli](https://github.com/mittal-parth/polkadot-dev-cli) |
 | **Abhiraj Mengade**| [abhiraj-mengade](https://github.com/abhiraj-mengade) | [abhiraj-mengade](https://www.linkedin.com/in/abhiraj-mengade/) | - Graduated with a distinction from the Polkadot Blockchain Academy - 5, Singapore <br> - [2nd Runner Up](https://www.linkedin.com/posts/mittal-parth_hackathon-winners-web3-activity-7048340759116214272-eJvo) in the ink! Smart Contract Category at the Polkadot Hackathon: Europe Edition 2023 |
-| **Shubham Rasal**  | [Shubham-Rasal](https://github.com/Shubham-Rasal) | [shubhamrasal](https://www.linkedin.com/in/shubhamrasal/) | - Placeholder |
+| **Shubham Rasal**  | [Shubham-Rasal](https://github.com/Shubham-Rasal) | [shubhamrasal](https://www.linkedin.com/in/shubhamrasal/) | - EthIndia 24 Finalist <br> - 3x EthGlobal Hackathon Winner |
 | **Ayush Kumar Singh** | [ayush4345](https://github.com/ayush4345)        | [ayush45](https://www.linkedin.com/in/ayush45/)        | - Placeholder |
 
 
